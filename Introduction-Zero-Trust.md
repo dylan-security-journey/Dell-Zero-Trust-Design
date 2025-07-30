@@ -18,3 +18,18 @@ Evolving Threat Landscape: Moving target, increase in attack frequency & sophist
 
 Shift Towards Remote and Hybrid Workforce: Mobile workforce from anywhere, unsecured wifi networks, no longer verified/controlled, BYOD (Bring your own Device), employees forget basic hygiene skills and using their devices to access work networks
 
+## Traditional Security vs. Zero Trust
+
+Traditional Security: VPNs, Trust but verify (bad guys outside firewall and good guys inside firewall)
+
+Zero Trust: Focus on users, assets, and resources (whether internal or external, continuously verified)
+
+## How Does Zero Trust Work?
+
+Ensures that (DAAS) data, application, asset, and services is protected with security capabilities that move along protect surface, provides zones for visibility (secure, manage, monitor)
+
+Verify Explicitly: Always verify users and network requests regardless of location or access history (does not matter if you had access before) (trusted until proven otherwise)
+
+Use least priviledged access: Limit user access to resources they absolutely need for current role, access is granular and per session
+
+Assume Breach: Segmnet user access, encryption, continuously monitor and strengthen defenses 
