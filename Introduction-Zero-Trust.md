@@ -88,7 +88,7 @@ Provides a roadmap, different ways to implement based on NIST guidelines, (Enhan
 
 ## Components of NIST Zero Trust Architecture
 
-CDM System: Continuous Diagnostics and Mitigation gathers all information related to access request and feed it to PD, applies configuration and provides PE with information
+CDM System: Continuous Diagnostics and Mitigation gathers all information related to access request and feed it to PD, applies configuration and provides PE with information (responsible for enforcing subset of policies like BYOD)
 
 Industry Compliance: Check for regulatory and requirements a company must follow
 
