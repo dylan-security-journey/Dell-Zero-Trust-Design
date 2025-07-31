@@ -56,4 +56,24 @@ Enterprise Identity Service: Automatic Account Provisioning (AAP), Enterprise Fe
 
 Automation & Orchestration Pillar: Cyberseurity Domain Orchestrator, Cybersecurity DOmain Controller Policy Engine & Automation / (SOAR), Representative Capabilities (Software-Defined Enterprise & Cybersecurity Orchestration)
 
-Visibility & Analytics Pillar: Analytics & Confident Scoring, Logging/SIEM, Representative capabilities (Analytics, Auditing, Sensor & Telemetry), 
+Visibility & Analytics Pillar: Analytics & Confident Scoring, Logging/SIEM, Representative capabilities (Analytics, Auditing, Sensor & Telemetry)
+
+Policy Enforcement Points
+
+Client & Identity Assurance
+
+User (Person Entity): Authentication decision point, continuous authentication or conditional (NPEs, M2M), services (ICAM)
+
+Devices (Non-person entity, PC/Phone/IoT): Authentication decision point, device hygiene, comply to connect
+
+Data Centric Enterprise
+
+Network & Infrastructure Pillar: Resource authorization decision point, ZT enabling infrastructure
+
+Application & Workload Pillar: Application authorization decision point, securing applications/workloads, supply chain
+
+Data pillar: Data authorization decision point, securing data, data discovery, data masking
+
+## Mapping Zero Trust Pillars - Dell PowerProtect Cyber Recovery Vault
+
+Sync > Copy > Lock > Analyze > Monitor/Report > Recover
