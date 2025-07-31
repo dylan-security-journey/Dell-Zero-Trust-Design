@@ -50,7 +50,7 @@ Minimize operational risk: systems not being patched, automation of updates
 
 ## Application Areas of Zero Trust
 
-Multicloud: 
+Multicloud: reliance on enterprise perimeter becomes liability, ZT does not differentiate between boundaries
 
 Containerized Software & Micro-services: containers isolated but share resources, assigns identity to every service instance                                                                                             
 
@@ -63,3 +63,49 @@ Varied Access needs: temporary user access, given access to only resources neede
 Cross-enterprise collaboration: Enroll in federated ID management system
 
 Remote work/mobile management: most organizations support remote workforce
+
+## Keys for a Successful Zero Trust Implementation
+
+Embrace Change: Applying change management practices and identifying culture
+
+Having end-to-end visibility: visibility to know what you have and how it's used 
+
+Business collaboration: Communication across siloed teams in and outside IT organization, Close collaboration helps understand purpose and alignment
+
+Designing for adaptability and scalability: flexible approach
+
+Taking the first step: Establishing proper governance and knowing where to start
+
+## Introduction to Zero Trust Architecture
+
+(ZTA) framework of the tools and technologies used to deploy and build Zero Trust environment
+
+Rules/policies added to original, operation concepts, capability planning, identify what work best for an organization Kipling method (who, what, when, where, why, how)
+
+## NIST Zero Trust Architecture
+
+Provides a roadmap, different ways to implement based on NIST guidelines, (Enhanced identity governance, logical microsegmentation, network-based segmentation), operated onsite or through cloud-based
+
+## Components of NIST Zero Trust Architecture
+
+CDM System: Continuous Diagnostics and Mitigation gathers all information related to access request and feed it to PD, applies configuration and provides PE with information
+
+Industry Compliance: Check for regulatory and requirements a company must follow
+
+Threat Intelligence: gather data on existing and potential threats to policy engine 
+
+Activity Logs: keep track of relevant information to every single access request (for granted and denied access)
+
+Data Access Policy: governing regulations applied when accessing a resource and helps PDP
+
+PKI: Public Key Infrastructure distribution of digital certificates and encryption
+
+ID Management: manages user identity records and authorize who has access to resources
+
+SIEM System: Security Information and Event Management, carrying out analysis followed by corrective/preventive measures
+
+Policy Enforcement Point: Brawn behind any access decision, enabling and terminating 
+
+Policy Decision Point:  Drives access decisions, policy engine makes ultimate decision, policy administrator configures PEP according to PE decisions
+
+
