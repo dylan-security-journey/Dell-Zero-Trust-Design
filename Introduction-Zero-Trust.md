@@ -108,4 +108,45 @@ Policy Enforcement Point: Brawn behind any access decision, enabling and termina
 
 Policy Decision Point:  Drives access decisions, policy engine makes ultimate decision, policy administrator configures PEP according to PE decisions
 
+## US DoD Trust Reference Architecture
+
+U.S. Department of Defense (DoD) focuses on data-centric design, maintaining services independent from each other, 
+
+Seven Pillars: Users, Devices, Applications & Workloads, Daa, Network & Environment, Automation & Orchestration, Visibility & Analytics
+
+Reference architecture identifies 45 capabilities and further divided into 152 activities
+
+Two levels of maturity: Target level: minimum of 91 activities, Advanced Level includes complete set of 152 activties that enable adaptaive responses 
+
+## CISA Zero Trust Maturity Model
+
+Cybersecurity and Infrastructure Security Agency provide situational awarenesss
+
+Five pillar of Zero Trust: Identity, Devices, Networks, Applications & Workloads, Data
+
+Maturity levels across the pillars: Traditional, Initial, Advanced, Optimal
+
+## Which Architecture to Use?
+
+What are the security goals? 
+
+How well does architecture identify threats and assess risk levels?
+
+What are recommended control approaches?
+
+What is total cost of implementing architecture?
+
+## Differences between Zero Trust Reference Architecture
+
+NIST | Advantage: segmentation of data, stronger user identification | Disadvantages: More users to manage, require reccuring maintenance
+
+U.S. DoD | Advantage: less vulnerability, improved compliance | Disadvantages: Increase application complexity, disrupt productivity
+
+CISA | Advantage: strong data security, security orchestration | Disadvantages: More applications to be protected, time and effort into creating ZTA
+
+## Other Zero Trust Standards & Regulations
+
+National Cybersecurity Council (NCSC):
+
+General Data Protection and Regulation (GDPR): 
 
