@@ -33,3 +33,33 @@ Verify Explicitly: Always verify users and network requests regardless of locati
 Use least priviledged access: Limit user access to resources they absolutely need for current role, access is granular and per session
 
 Assume Breach: Segmnet user access, encryption, continuously monitor and strengthen defenses 
+
+## Benefits of Zero Trust
+
+Prevent unauthorized access: adaptive identity-based access control, continuously verify aand authenticate regardless of location or time (role based and attribute based)
+
+Reduce the impact radius: Mitigates most attack vectors and surface due to 'trust none' policy, can't pivot freely within network
+
+Enhance response effectiveness: Automate and orchestrate security response quickly, not to overlook anything
+
+Curb freedom of movement: focused on priviledged access management to control how it's used and revoked
+
+Avoid too many on-ranmps: 'comply to connect' limits employees to log into sensitive systems on a unsecure network
+
+Minimize operational risk: systems not being patched, automation of updates
+
+## Application Areas of Zero Trust
+
+Multicloud: 
+
+Containerized Software & Micro-services: containers isolated but share resources, assigns identity to every service instance                                                                                             
+
+Internet-of-Things: new devices accessing the network, varying levels of trust
+
+5G/6G: Data transfer rate increase
+
+Varied Access needs: temporary user access, given access to only resources needed
+
+Cross-enterprise collaboration: Enroll in federated ID management system
+
+Remote work/mobile management: most organizations support remote workforce
