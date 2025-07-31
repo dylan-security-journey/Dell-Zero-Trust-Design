@@ -146,7 +146,7 @@ CISA | Advantage: strong data security, security orchestration | Disadvantages: 
 
 ## Other Zero Trust Standards & Regulations
 
-National Cybersecurity Council (NCSC):
+National Cybersecurity Council (NCSC): Promotes Zero Trust adpotion in UK and publishes ZT principles
 
-General Data Protection and Regulation (GDPR): 
+General Data Protection and Regulation (GDPR): A regulation in EU that spans data protection and privacy of employees, regulation is required when implementing (SIEM) analytics
 
