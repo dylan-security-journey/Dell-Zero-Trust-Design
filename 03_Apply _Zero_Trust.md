@@ -266,6 +266,21 @@ Data: limited automation to inventory data, beginning implementation of data cat
 
 ## Scope of Advanced Zero Trust Maturity Levels
 
+Automated configurations of policies with cross-pillar coordination
+
+Identity: phishing-resistant MFA, consolidation of identity stores, automated risk assessment, session-based access
+
+Devices: all physical and most virtual assets tracked, enforced compliance integrated with threat protection, resource access depends on device posture
+
+Network: expanded isolation, configurations adapt on automated risk-aware, encrypts netowork traffic and manages rotation of keys
+
+Application & Workloads: Most critical applications available over public network with authorized users, context-based access controls, coordinate teams for operations and deployment
+
+Data: automated data inventory
+
+
+
+
 
 
 
