@@ -62,12 +62,35 @@ Compliance: (SLA) Service Level Agreement, least privilege, GDPR, HIPPA
 
 Confidentiality: Define measures to be implemented, ensuring authentication, endpoint security, hardening infrastructure
 
+## Data Centric Zero Trust Techniques
 
+Data catalog and risk management: organize inventory, collection of activites, know what data they have, ensure processes are put in place,  landscape asssess for association to data loss
 
+Data classification and tagging: identify nature of data and categorize type, who should have access, policies put in place, adding labels to data, relies on metadata (PII)
 
+## Data Centric Zero Trust Techniques (Continued)
 
+Encryption, data loss prevention, tokenization
 
+Encryption alters data to look like random data, does not prevent contreception
 
+Symmetric encryption more common with one key to encrypt and access (best for large sets of data)
+
+Asymmetric encryption uses two keys, sender encrypts with private key, and sender uses public key to decrypt data (email communication/e-commerce)
+
+Data loss prevention prevents exfiltration and breach, monitor acrross cloud and on-premise, categorize content, automated protection policies, end point protection
+
+Tokenization replaces sensitive data with non-sensitive equivalent called tokens, primarily used to protect transactional, help to maintain, no correlation to original data, substitue with random numbers
+
+Data access control determined by roles, groups, functions, and availability, discretionary access control guarantee data is accessible while not jeopardizing data sensitivity
+
+Context-centric methods use environmental factors, location context
+
+Role based access control is determine by privileges on role
+
+Attribute-based access control defines permissions based on attributes, customize granular data access privileges, easy implementation
+
+Trusted Data Format file format, file locking, and access relocation
 
 
 
