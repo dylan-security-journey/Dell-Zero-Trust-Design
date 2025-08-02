@@ -50,6 +50,16 @@ SAML is open standard exchanging authentication data between parties (XML assert
 
 OpenID: open standard that uses third-party authentication services
 
+## Other Techniques
+
+Unified Endpoint Management (UEM): securely manage from single console, through agent and agentless management, supports and manages BYOD
+
+Integrated ICAM: Identity, Credential, and Access Management set of principles/policies/tools, support PKI (public key infrastructure) systems
+
+Conditional User Access: considers signals from different sources, signals regarding user location/IP address
+
+Continuous Authentication: validate users throughout an entire session, NPEs (nonperson entities) ongoin, behavior data
+
 
 
 
