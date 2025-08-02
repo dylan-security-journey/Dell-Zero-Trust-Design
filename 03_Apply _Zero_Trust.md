@@ -90,7 +90,17 @@ Resource Authorization and Integration: User request gateway to route appropriat
 
 Continuous Monitoring and Authorizations: (FISMA) (ATO) authorization to operate, 
 
+## Zero Trust Network Pillar Design Considerations
 
+Data Flow Mapping: Understanding data traffic across entire network
+
+Software-Defined Networking: API is control point for each component of network
+
+Macro Segmentation: Easily identifiable and measurable 
+
+Micro Segmentation: Fewer but more effective policies, ML-based policy and cyptographic fingerprints
+
+## Zero Trust Design Considerations
 
 
 
