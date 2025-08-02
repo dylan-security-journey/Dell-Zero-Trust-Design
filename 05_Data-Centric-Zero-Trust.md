@@ -92,6 +92,45 @@ Attribute-based access control defines permissions based on attributes, customiz
 
 Trusted Data Format file format, file locking, and access relocation
 
+## Implementing Zero Trust on Data
+
+ERP (Enterprise Resource Planning)  merging into a single globe instance
+
+Understanind the data landscape: determine data classification levels, discover and classify based on sensitivity, document goal and develop catalog
+
+Protect Data: Decide type of encryption, access restrictions, use and design of sensitivity labels
+
+Thwart data loss using least privilege access: create (DLP) policies, configure conditional access app control for cloud and policies, minimal permissions
+
+## Best Practices for Implementing Data Centric Zero Trust
+
+Focus on Protecting the Data: files with sensitive data quickly classified and protected, segmenting data as fine grained to limit access
+
+User Persistent Encryption: Render data unreadable to those that don't have access, reduce blast radius if data were to get unauthorized
+
+Continuous Monitoring: Automate process of assessing organization's security measures, address any incidents that occur, greater visibility
+
+Authorization: authorized at all times, least privilege for minimal access, access duration
+
+## Dell Apex Cyber Recovery Services and Dell SafeData
+
+Dell Apex Cyber Recovery Services: on-premises solution for (aaS), identify/isolate/detect/simplify
+
+Dell SafeData: granular policy control over data, implement SASE, fingerprinting
+
+## Microsoft Purview
+
+Unified data governance solution to manage and govern data, map of data landscape, automated hybrid sources
+
+
+
+
+
+
+
+
+
+
 
 
 
