@@ -292,7 +292,15 @@ Application and Workloads: automated data inventory, redundant available data st
 
 Data: continuous data inventory, automated data categorization, dynamic access controls, encrypts data in use
 
+## Challenges of Adopting Zero Trust
 
+Legacy systems may not adapt to Zero Trust: costly to switch as model is bsaed on traditional maturity level
+
+No single Zero Trust product: requires combination of products and tools to be customized to each organization
+
+Zero Trust requires continuous maintenance: The need for time strain to keep up with system and make sure updated in real-time
+
+Zero Trust can impact productivity: Adapting to new environment and getting used to new tools
 
 
 
