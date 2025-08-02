@@ -44,7 +44,7 @@ Mobile Device Management (MDM): restricts access to only authorized mobile devic
 
 Extended Detection and Response (XDR): collects and correlates endpoints (SIEM) does not replace SIEM or SOAR, invoked machine learning and automated incident response
 
-Federated Identity Management: trust domains across business units, allow users to work together across domains, multidomain access
+Federated Identity Management: trust domains across business units, allow users to work together across domains, multidomain access (third-party vendor same sign on as enterprise)
 
 SAML is open standard exchanging authentication data between parties (XML assertion)
 
