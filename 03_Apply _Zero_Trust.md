@@ -44,7 +44,23 @@ Design and policy driven approach and support them by establishing trust with de
 
 ## Zero Trust User Pillar Design Consideration
 
+User Inventory: Authorized user list and audited user identities list
 
+Conditional User Access: capture user status changes
+
+Multi-Factor Authentication: User behaving normally, gather intel on centralized identity, 
+
+Priviledged Access Management: Access automation engine 
+
+Identity Federation User Credentialing: Seven laws of Identity: User control and consent, minimal disclosure, justification, directed identity, competition, human integration, consistency, SAML-based (Security Assertion Markup Language)
+
+Behavioral, Contextual ID, and Biometrics: Sending detailed alerts, isolating threats, right policies based on unique environment needs
+
+Least Privileged Access: Access policies for end-to-end enterprise identity
+
+Continuous Authentication: tracking data points and typing pattern enrolled to verify identity 
+
+Integrated ICAM Platform: Defining requirements for identification and authentication
 
 
 
