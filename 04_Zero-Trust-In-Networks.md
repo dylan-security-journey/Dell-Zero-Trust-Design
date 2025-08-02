@@ -124,8 +124,27 @@ Validate: continuously validate users/applications
 
 Zero trust mindset: never trust, always verify
 
+## Dell Safe Data-Netskope Private Access
 
+cloud-based ZTN access solution
 
+NPA (Netskope Private Access) secure access for remote devices and private applications secured bet end-to-end TLS encrypted tunnel
+
+Routed by Netskope NewEdge network
+
+## VMware NSX Distributed Firewall
+
+service-aware Layer-7 firewall deployed at zone boundaries to protech cloud/workloads
+
+Simplify network segmentation, implement microsegmentation, enable granular virtual patching
+
+## Use Cases 
+
+VPN Replacement: VPNs to cooarse, lack flexibility to see user engagement
+
+Terminal Services/VDI Replacement: LAN-equivalent access
+
+Network Access Control Replacement: node is dependable enough to be a part of the network
 
 
 
