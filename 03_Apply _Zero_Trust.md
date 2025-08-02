@@ -22,6 +22,27 @@ Policy design & Implementation & Maintenance  work together in periodic process,
 
 ## Zero Trust Design Consideration
 
+ZT architecture cannot be invincible as monitoring all users is more important and most protective
+
+Effective controls rely on specific capabilities in pillar model
+
+User: human and nonhuman identities
+
+Device: all endpoints with local/remote access
+
+Application & Workload: Resources bridge gap between users and organization's data
+
+Data: Sensitive data that can create harm if misused or compromised
+
+Network: Provides poath and maintains connection between endpoints and applications
+
+Environment: IT environment provide data processing resources for applications and workloads
+
+## Zero Trust Policy & Design Consideration
+
+Design and policy driven approach and support them by establishing trust with devices and applications in environment, enforce least privilege, continuously verify, respond to change rapidly for potential incidents
+
+## Zero Trust User Pillar Design Consideration
 
 
 
