@@ -51,6 +51,48 @@ Avoid Lateral Movements: software-defined perimeters, Endpoint Detection and Res
 
 ## Challenges of ZTNA
 
+Mapping access rights: who or what need access (ongoing effort)
+
+Existing product and services: establish a deployment procedure into current architecture
+
+Resistance from end users: opposition for need to deploy
+
+Cost: can be expensive, when something is already working like VPN solution
+
+Policy beyond laptops/desktops/devices: consent of non-managed devices 
+
+## Differences between VPNs and ZTNA
+
+Virtual Private Network (VPN) vs Zero Trust Network Access
+
+Virtual Private Network (VPN): allows complete private network access, operate at layer 3, verify login keys, no visbility to user action, lack of application level control, does not consider risk factors, not designed to increasingly workforce environment, usage of on-premise VPN servers
+
+ZTNA: operate at application layer, limit individual access, prevent lateral movement, monitoring of user behavior, secure data, evaluates device security posture, adaptive access depending on device trust, direct-to-app connections, mostly offered through cloud 
+
+## SASE vs ZTNA
+
+SASE (Secure Access Service Edge): based on ZT, combines point solutions like ZTNA/FWaaS/SD-WAN into single integrated service (complete approach)
+
+ZTNA: technique for handling authenticated user access, no such thing as trustworthy user, trust algorithms
+
+SASE: complete network and security services, identity-driven
+
+## Types of ZTNA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
