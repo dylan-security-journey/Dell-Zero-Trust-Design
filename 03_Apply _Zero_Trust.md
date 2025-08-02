@@ -120,6 +120,15 @@ Services: which services can be exploited to disrupt normal IT operations
 
 ## Shift Implementation Focus to Securing the Protect Surface
 
+Focus on protect the attack surface but inefficient as attack surface macro perimeter evolving and expaning
+
+Attack Surface: New Tech = New vulnerabilities, wireless access points, thousands of different endpoints, intricate software and hardware vulnerabilities
+
+Protect Surface: Exactly what is to be protected, defining surface provides more effective security controls as close as possible to assets, define microperimeter
+
+## Traditional Perimeter Security vs. Microperimeter Security
+
+
 
 
 
