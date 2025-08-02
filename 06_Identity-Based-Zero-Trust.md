@@ -28,9 +28,27 @@ Mid-Journey Point: allow approved mobile apps only, block clients that do not su
 
 Approaching Journey: require high-risk users to change their passowrds, require all users, device compliant
 
+## Identity Based Zero Trust Techniques
 
+Single-Sign-On (SSO): trusted relationship between IdP (Identity provider) and SP (Service Provider), verified token exchange
 
+Multifactor authentication (MFA): uses more than one factor of authentication, (know,have,are) 
 
+Privileged Access Management (PAM): help access for elevated users, managers, administrators, machine user accounts, least privilege access, Human user accounts: admin, domain, emergency, business, socket shell | Machine user accounts: application, service, secret
+
+Role-based Access Management (RBAC): restrict access based on roles, separation of duties, ABAC users who they are and not what they do and also location
+
+Open Device Authentication (OAuth 2.0): open standard, browserless and text limited devices, SSO 
+
+Mobile Device Management (MDM): restricts access to only authorized mobile devices
+
+Extended Detection and Response (XDR): collects and correlates endpoints (SIEM) does not replace SIEM or SOAR, invoked machine learning and automated incident response
+
+Federated Identity Management: trust domains across business units, allow users to work together across domains, multidomain access
+
+SAML is open standard exchanging authentication data between parties (XML assertion)
+
+OpenID: open standard that uses third-party authentication services
 
 
 
