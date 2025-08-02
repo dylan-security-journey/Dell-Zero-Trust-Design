@@ -276,7 +276,24 @@ Network: expanded isolation, configurations adapt on automated risk-aware, encry
 
 Application & Workloads: Most critical applications available over public network with authorized users, context-based access controls, coordinate teams for operations and deployment
 
-Data: automated data inventory
+Data: automated data inventory, consistent labeling, hihgly available data stores, encryption of data-at-rest
+
+## Scope of Optimized Zero Trust Maturity Level
+
+significant improvements to security implementation
+
+Identity: enterprise-wide identity integration, continuous validation and risk analysis, tailored automated access
+
+Devices: continuous asset analysis, real-time resource access
+
+Network: microperimeters with just-in-time access controls, best practices for cryptographic agility
+
+Application and Workloads: automated data inventory, redundant available data stores, encryption at rest
+
+Data: continuous data inventory, automated data categorization, dynamic access controls, encrypts data in use
+
+
+
 
 
 
