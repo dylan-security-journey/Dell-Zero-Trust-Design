@@ -128,7 +128,33 @@ Protect Surface: Exactly what is to be protected, defining surface provides more
 
 ## Traditional Perimeter Security vs. Microperimeter Security
 
+Traditional Perimeters: only works at network level, only protect inside network from outside network, firewalls, VPNs, other border controls, traffic outside is untrusted and restricted while traffic inside is trusted by default
 
+Microperimeters: created around each protect surface, point of control, not derived from software solutions or hardware but through policy
+
+Microsegmentation logically divides data centers into security segments but not same as microperimeters
+
+## Categorize Protect Surface Resources
+
+Each protect surface resource is defined as a element under DAAS
+
+(Voice over IP & Messaging = Services)
+
+## Identify Protect Surface Resource Business Functions Workflow
+
+Workstations = Assets
+
+Email = Services
+
+## Understand the Current Protect Surface Operational Baseline
+
+Protect Surface mapping: transaction flows
+
+Mapped data catalog: helps organize into operational baseline
+
+## Zero Trust Policy Development Using the Kipling Method
+
+Policy statements must be limited and concise, Kipling Method helps with who, what, when, where, why, and how protect surface should be accessed
 
 
 
