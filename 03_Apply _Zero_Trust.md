@@ -156,6 +156,48 @@ Mapped data catalog: helps organize into operational baseline
 
 Policy statements must be limited and concise, Kipling Method helps with who, what, when, where, why, and how protect surface should be accessed
 
+## Microsegmentation Overview
+
+Method of creating zones and isolating workloads to secure them individually
+
+Helps admins create policies to limit network flow between workloada and apply appropriate security controls with segmented networks
+
+Used to reduce network attack surface, improve breach containment, strengthen regulatory compliances
+
+Principles: visbility, granular security, dynamic adaptation
+
+## Benefits of Microsegmentation
+
+Reduce Impact of Attack: provide visibility of entire network
+
+Improve Breach Containment: shorten time to respond and remediate breach
+
+Strengthen Compliance: Granular control of systems
+
+Streamline Policy Management: unified policy for subnet access
+
+## Software Defined Perimeter Overview
+
+SDP microsegments network access based on identity, need-to-know model of identity verified before granting access
+
+## Benefits of Software Defined Perimeter
+
+simplify access controls, reduce attack surface, remove policy management complexity, automation
+
+## Software Defined Perimeter Solution
+
+1) SDP client request, SDP controller verifies applying access policies
+
+2) After confirmation SDP controller send cryptographically signed token to client
+
+3) SDP client then uploads live entitlements to SDP gateway to find correct resources based on request
+
+4) Mutual session between gateway and client is formed to access resources (access logs recorded for auditing)
+
+5) SDP controller monitors changes and ensure session segmentation between SDP client and resources
+
+
+
 
 
 
