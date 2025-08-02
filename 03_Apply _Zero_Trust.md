@@ -102,8 +102,23 @@ Micro Segmentation: Fewer but more effective policies, ML-based policy and cypto
 
 ## Zero Trust Design Considerations
 
+Common barrier to optimized zero trust is not taking a thorough approach toward establishing it across the enterprise
 
+Simplistic Approach: Assumption of optimized point product purchase (need to be applied correctly), quick-fix mindset (continuously applied), viewed as authenticating user and devices (applicable behaviors at application/workload), rebuilding or replacing legacy infrastructure (digital transformation)
 
+## Zero Trust Implementation Factors
+
+what asset types must be protected, how protection defines, suit each unique asset (DAAS)
+
+Data: must be protected
+
+Applications: working with sensitive information
+
+Assets: assets most sensitive
+
+Services: which services can be exploited to disrupt normal IT operations
+
+## Shift Implementation Focus to Securing the Protect Surface
 
 
 
