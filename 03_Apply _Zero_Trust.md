@@ -62,8 +62,33 @@ Continuous Authentication: tracking data points and typing pattern enrolled to v
 
 Integrated ICAM Platform: Defining requirements for identification and authentication
 
+## Zero Trust Device Pillar Design Considerations
 
+Device Inventory: complete endpoint inventory, where it is located
 
+Device Detection and Compliance: track and identify each device and how they communicate 
+
+Device Authorization with Real-time Inspection: application control and file integrity monitoring
+
+Remote Access: specify limits of allowed device activity, limit BYOD
+
+Automated Asset, Vulnerability, and Patch Management: Automatically apply patches and recommend remediation
+
+Unified Endpoint Management and Mobile Device Management:  UEM solution showing insights on device usage
+
+Endpoint and Extended Detection and Response (EDR/XDR): identify suspicious activity and automated responses on predetermined triggers
+
+## Zero Trust Application and Workload Pillar Design Consideration
+
+Application Inventory: (APM) how applications integrate with each other
+
+Secure Software Development and Integration: Application security become part of their workflow
+
+Software Risk Management: (BOM), approved vulnerability databases 
+
+Resource Authorization and Integration: User request gateway to route appropriate authentication, API manage sessions
+
+Continuous Monitoring and Authorizations: (FISMA) (ATO) authorization to operate, 
 
 
 
