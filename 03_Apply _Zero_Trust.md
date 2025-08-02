@@ -11,7 +11,30 @@ Technical Business Discovery: Data is gathered to estalish basline of existing s
 Zero Trust Architecture Design: Defining procedures necessary to migrate organization to new security posture, detailed inputs, key stakeholders to design and understand scope
 
 Architecture Optimization: Detailed scheme for maturity journal, identify resources to be protected and security architecture implemented
-
+    
 Policy Design: Map and catalog asset operational interdependencies, what conditions they may need access, least privilege
 
-Monitoring & Maintenance: 
+Zero Trust Implementation: policies deployed to establish and enforce, cyclical process
+
+Monitoring & Maintenance:  ensures implementation remain effective, diagnosis, troubleshooting, updates
+
+Policy design & Implementation & Maintenance  work together in periodic process, changes and fixes applied to existing or new policies
+
+## Zero Trust Design Consideration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
