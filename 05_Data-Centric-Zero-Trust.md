@@ -50,6 +50,33 @@ Data in transit (more vulnerable): Implement firewalls/segmentation when data tr
 
 Data in Use (most vulnerable): only authorized users, mfa, identity management
 
+## Benefits of Data Centric Zero Trust
+
+Accelerated Recovery: important assets identified, data recovered only to allowed users
+
+Risk Management: reduce risk within perimeters, examine security gaps, detect anaomalies
+
+Data Integrity: protect data against threats using (IAM) Identity and Access Management, micro-segmentation and isolating workloads
+
+Compliance: (SLA) Service Level Agreement, least privilege, GDPR, HIPPA
+
+Confidentiality: Define measures to be implemented, ensuring authentication, endpoint security, hardening infrastructure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
