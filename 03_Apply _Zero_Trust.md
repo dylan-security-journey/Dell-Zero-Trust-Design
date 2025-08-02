@@ -238,5 +238,38 @@ Optimal: FUlly automated and better alignment to relevan security standards, hig
 
 ## Scope of Traditional Zero Trust Maturity Levels
 
+Many organizations start at traditional if zero trust hasn't started
+
+Identity: traditional MFA, periodic view, on-premise identity, limited risk assessments
+
+Devices: manually tracking device inventory, limited compliance visibility
+
+Networks: macrosegmentation, manually, minimal traffic encryption
+
+Application and Workloads: manual, private network, minimal workflow integration
+
+Data: Manual inventory, on-premise, static, minimal encryption
+
+## Scope of Initial Zero Trust Maturity Level
+
+Initial level has automation of attribute
+
+Identity: MFA, access expires automated view, manual identity risk assessments
+
+Devices: physical assets tracked, some protection delivered through automation
+
+Network: Initial isolation of workloads, dynamic configuration on some parts, more traffic and formalized key management policies
+
+Application and Workloads: static and dynamic testing prior to deployment, accessible over public networks to authorized users
+
+Data: limited automation to inventory data, beginning implementation of data categorization, encrypting data in transit, initial centralized key management
+
+## Scope of Advanced Zero Trust Maturity Levels
+
+
+
+
+
+
 
 
