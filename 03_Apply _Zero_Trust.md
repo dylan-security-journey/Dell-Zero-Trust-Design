@@ -196,6 +196,12 @@ simplify access controls, reduce attack surface, remove policy management comple
 
 5) SDP controller monitors changes and ensure session segmentation between SDP client and resources
 
+## Differences between Microsegmentation and SDP
+
+Microsegmentation: dividing network into small segments with each having it's own policies, limit lateral movement and contain threat in segment, applied within data centers, internal segmentation, predefined rules at network level, visibility of network, MFA, less complex to manage/implement, broader adopting in traditional networks (mature)
+
+SDP (Software Defined Perimeter): giving access to only designated resources and personalized perimeter for each user, cloak resources and ensures zero-trust access, extend across all environments, individual users and devices, user authentication and application level access (identity), degree of invisbility and protection of hidden resources, SSO or contemporary, more complex to implement especially at large environment, need for secure remote access and cloud security increases
+
 
 
 
