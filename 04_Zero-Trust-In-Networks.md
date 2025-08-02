@@ -79,12 +79,50 @@ SASE: complete network and security services, identity-driven
 
 ## Types of ZTNA
 
+Endpoint Initiated (agent based): software agaent on each device, works well with SDP (CSA > SDP), sends request (time/location) to ZTNA controller, ZTNA controller sends a list of approved applications, gateway secures so not accessed on internet
+
+Service Initiated Architecture: resides in cloud and doesn't need agent to be installed, authenticated by cloud service provider and redirected to identity management, useful in organizations with BYOD (HTTP & HTTPS), application connects to ZTNA connector, ZTNA connector to broker proxy, user authenticate with provider/broker, proxy prevents direct access
 
 
+## Implementation of ZTNA
 
+Endpoint initiated and service initiated can be implemented in various ways
 
+Gateway Integration: part of network gateway, endpoint initiated is mainly used with gateway based on access control policies
 
+Secure SD-WAN: centralized access management, service initiated geneally use Secure SD-WAN, difficult to adapt dependent on development of different vendors
 
+## Implementation Steps for ZTNA
+
+trust broker validates identity and forbids lateral movement
+
+Identify: Identify devices that need access, Identity and Access management (SSO) (Okta)
+
+Define Policy: set-up access controls, (NGFW-Micro segmentation)
+
+Enforce: test policies and implement it
+
+Monitor: continuously track policy violation and insights on encrypted communication, OpenManager Network Manager
+
+Maintain: continue to apply ZT policies and perform audits, AIOps platforms
+
+## Considerations for ZTNA
+
+Vendor Specialization:  search for vendor that meets needs of business goals or specialize in one area of needs
+
+Level of Implementation: some have parts of ZT like IdP while others need entire ZTNA from scratch
+
+Support for legacy applications: few ZTNA vendors operate with specific IdP while others are IdP-agnostic meaning they can integrate with any IdP (endpoint protection providers)
+
+## Best Practices
+
+Consistent security policy: same degree of authentication regardless of location or application
+
+Visibility: decrypt traffic to analyze malicious behavior and data exfiltration
+
+Validate: continuously validate users/applications
+
+Zero trust mindset: never trust, always verify
 
 
 
