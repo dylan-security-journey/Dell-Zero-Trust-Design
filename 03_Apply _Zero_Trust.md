@@ -202,9 +202,41 @@ Microsegmentation: dividing network into small segments with each having it's ow
 
 SDP (Software Defined Perimeter): giving access to only designated resources and personalized perimeter for each user, cloak resources and ensures zero-trust access, extend across all environments, individual users and devices, user authentication and application level access (identity), degree of invisbility and protection of hidden resources, SSO or contemporary, more complex to implement especially at large environment, need for secure remote access and cloud security increases
 
+## Identity Governance Overview
 
+verify identity of end-user, Role-Based Access Control (RBAC), Policy-based Access Control (PBAC), Attribute-based Access Control (ABAC), certification, lifecycle management, SoD (Segregation of Duties), audit/compliances
 
+## Benefits of Identity Governance
 
+Visibility: high-level overview, prompt action
+
+Streamlined identity life cycle management: leverages resources to uphold
+
+Enhanced compliance and security: updated automatically for user accounts
+
+Risk management: least privilege (SoD) violations
+
+## Zero Trust Adoption Overview
+
+Takes time and major investment, organizational security requirements, existing technology, process, budget
+
+Framework for organization to improve unauthorized access
+
+Identity, Devices, networks, Applications & Workloads, Data
+
+Visbility and Analytics, Automation & Orchestration, Governance
+
+Maturity levels 
+
+Traditional: Manual configurations, static, limited risk assessment, limited visbility
+
+Initial: cross pillar solutions, policy decision enforcement, automation of configurations, MFA
+
+Advanced: Policies enforced across pillars, implement basic analytics of behavior, aumotated wherever applicable, centralzlied authentication
+
+Optimal: FUlly automated and better alignment to relevan security standards, high visibility, enhance incident response and mitigation, automatic threat detection
+
+## Scope of Traditional Zero Trust Maturity Levels
 
 
 
