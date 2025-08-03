@@ -84,8 +84,25 @@ Ongoing cost: number of security controls, time duration of project
 
 ## Cost Evaluation Metrics
 
+Maximum and minimum threshold value based on requirements, using cost benefit analysis
+
+if cost => maximum threshold, cost of implementation high
+
+if cost < minimum threshold, cost is low
+
+## Usability and Features
+
+All features supported, many but not all, few but not all, no features supported
+
+3,2,1,0
+
+## Expanding Zero Trust
+
+Develop Zero Trust strategy, evaluate the vendors, move to the next implementation stage, new zero trust (partial), pure zero trust (fully integrated)
 
 
+
+ 
 
 
 
