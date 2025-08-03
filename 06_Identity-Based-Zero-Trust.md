@@ -90,6 +90,29 @@ Auditing: capturing activities of users and devices to generate audit logs, trac
 
 ## Risk Assessment
 
+contextual information plays an important role in providing access rights (proactive and adaptive approach)
+
+Identify potential vulnerabilities, prioritize security measures, optimize access control policies (least privilege)
+
+## Enforcement of Real-Time Access Policy
+
+make access decisions based on current context and user attributes
+
+Enforce policies, reduce attack surface 
+
+## Implementation Steps
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
