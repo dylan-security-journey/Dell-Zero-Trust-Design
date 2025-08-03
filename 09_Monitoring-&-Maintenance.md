@@ -164,6 +164,26 @@ Extended Detection and Response (XDR): threat data from throughout organization'
 
 User and Event Behavioral Analysis (UEBA): comparing current behavior to known behavioral baseline
 
+## Automation and Orchestration
+
+Streamline operations, bulk workflows, reduce repetitive task, better response, improved user experience, secure orchestration, auto scans, aggregates data, deeper insight, context, interface friendly,
+
+Invest + respond + resolution
+
+security automation: detect, triage, resolve
+
+SOAR (Security Orchestration Automation Response): takes data from SIEM and gives contexts to the data
+
+Policy automation, critical process automation, auomate data tagging and classification, automation of responses, automate APIs and workflows
+
+Users, Devices, Workloads, Network, Data
+
+## Best Practices for Establishing Automation and Orchestration
+
+Consider automating SIEM functionality, connecting multiple SOAR to complete complex actions, automating preprocessing data, speed up security wjile reducing cost 
+
+
+
 
 
 
