@@ -102,7 +102,17 @@ Enforce policies, reduce attack surface
 
 ## Implementation Steps
 
+Discover: Discovering all digital resources and information, continuous activity to support change
 
+Classify and Protect: Classif to group sensitive information together, protect is implemeting MFA and protecting the classified resources with encryption (firewalls)
+
+Monitor: visibility to gain knowledge through (SIEM) security information and event management, (UEBA) user and entity behavior analytics
+
+Respond: Incident response and remediation activites, isolating, apply patches
+
+Recover: Restoring data from backups, perform post-incident analysis
+
+Adapt: refining and adjusting, modifying entry protocols, and recommended methodologies
 
 
 
