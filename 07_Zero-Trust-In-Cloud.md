@@ -34,6 +34,13 @@ Monitoring: inspect all traffic, identify unexpected behavior, adjust security p
 
 Protect Surface: Need to be defined for microsegmentation, policies, RBAC or ABAC, in-house functionality should be used
 
+## Use Case - Migration
+
+Migration Applications: who will be accessing applications? What protections needed? What devices will access them? How is data being used?
+
+## Use Case - Kubernetes
+
+Kubernetes: How to maintain consistency? Cluster misconfiguration can cause security vulnerabilities and each new container adds potential attack target
 
 
 
