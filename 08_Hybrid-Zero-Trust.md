@@ -22,6 +22,26 @@ Operation and Expansion: begin plamning of next phase and monitor logs and feedb
 
 Change/Upgrade Migration Feedback: Updating and maintenance, business processes evaluation conducted
 
+## Considerations for Hybrid Zero Trust
+
+Assets: high value assets, capabilities around assets, asset management
+
+Actors: how are priviliges assigned, blanket permissions, behavior patter
+
+Process: tradeoff in performance, sata flows identified, approval and denied
+
+Vendors or Solutions: is it compatible with infrastructure, consistent visibility, securit expert supports for employee training
+
+## Introduction
+
+Integration of multiple exist technologies of various maturities, certain vendors more suited for specific processes, vendors switched if can't meet SLA or compliance requirements
+
+## Assessment Template or Evaluation for Vendor Assessment
+
+Pillars alignment, cost, compatbility, Usability & features, Vendor score = weight x vendor evaluation
+
+## Considerations for Vendor Selection
+
 
 
 
