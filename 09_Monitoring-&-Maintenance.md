@@ -24,7 +24,32 @@ Increase in data arise opportunities and challenges
 
 capacity to process telemetry data, real-time apporach, more accurate detection, rapid identification, greater real-time visibility
 
-## How is Analytics Applied in Zero Trust
+## How is Analytics Applied in Zero Trust?
+
+Determining context using data from device/user/application, statistics and confidence scores that increment irregularities, score used to define alerts and likelihood, real-time visibility into threat landscape
+
+## Example of Risk based Alerting for Zero Trust
+
+Analytics & Confidence Scoring: analyzes logs and events to obtain confidence scores = score used to indicate probability of event being true
+
+## Features and Functionality of Visibility & Analytics
+
+No such thing as one size fits all
+
+Secure Segmentation and connectivity: segmenting and isolating provide an intuitive policy wizard for defining micro segmentation
+
+Remote Monitoring: Ensure user/devices only have access to entitled remote access controls from analyzing SIEM  and end-point detection systems
+
+IT Management: Categorize networks, servers, and services according to risk
+
+Fraud and Threat Hunting: Inform potential risk utilizing (UEBA), situational awareness
+
+Risk Monitoring: Reveals and generates alerts in case of abnormal processes with spikes in usage
+
+Network Packet Brokers for Visibility and Security: TAPs and NPBs leverage maximize utilization through load balancing and packet filtering
+
+
+
 
 
 
