@@ -20,6 +20,12 @@ Aggregation of data (collect) > Cleaning of Data (consistent structure) > Supple
 
 ## Analytics and Zero Trust
 
+Increase in data arise opportunities and challenges
+
+capacity to process telemetry data, real-time apporach, more accurate detection, rapid identification, greater real-time visibility
+
+## How is Analytics Applied in Zero Trust
+
 
 
 
