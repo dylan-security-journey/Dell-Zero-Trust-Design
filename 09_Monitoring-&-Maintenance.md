@@ -68,7 +68,41 @@ Networking Performance Monitoring: monitoring of nework packets, only record met
 
 Deep Packet Monitoring: examines packets at more granular level than NPM, checks payload of every data packet
 
+## Considerations for Implementing Visibility
 
+1) Network port limitations
+
+2) Single dashboard to monitor
+
+3) Only relevant traffic flows to analysis tool
+
+4) NPM,DPM, or TAPs introduce latency
+
+5) easy to integrate across infrastructure
+
+6) dashboard tools should be flexible to support analytic work
+
+7) Care should be taken when designing data flows
+
+8) Data storage taken into account
+
+9) Harmonized and aggregated volume of data
+
+10) supporting scalability and segmentation
+
+11) technical staff with training on tools
+
+## Best Practices for Establishing Visibility
+
+Ensure Integrity of Data: focus on monitoring and preserving the health of devices
+
+Constantly enhance security by collecting data from multiple sources: further develop state of security through research and gathering information
+
+Agile policy and restricted access: adaptability to developing requirements
+
+Confirm that all the communication and processes related to security are visibile: crucial insights into behavior
+
+## Evaluation Strategies
 
 
 
