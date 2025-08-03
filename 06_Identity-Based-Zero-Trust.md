@@ -60,6 +60,37 @@ Conditional User Access: considers signals from different sources, signals regar
 
 Continuous Authentication: validate users throughout an entire session, NPEs (nonperson entities) ongoin, behavior data
 
+## Introduction
+
+improve risk visibility by analyzing each access request on every entry point, elevates decision-making process to entity, better detection of security threats and anomalies
+
+## Stages of Identity Based Zero Trust
+
+Fragmented Identity: several (IAM) making it difficult to maintain centralized view and control over access rights
+
+Unified IAM: providing SSO and centralizing procedures (consolidation)
+
+Contextual Access: After centralized processes of (IAM) established, tracking of identity/device health, location, time, behavior contibute to real-time decision making to ensure proper levels of access are granted
+
+Adaptive: Use of machine learning to monitor and adapt to behavioral analytics and unusual user patterns
+
+## Strategies
+
+Continuous monitoring/auditing
+
+Risk Assessment
+
+Enforcement of real-time access policies
+
+## Continuous Monitoring and Auditing
+
+Monitoring: detect potential threats in real time, user activity, device health (security pateches), network behavior (unusual traffic flow)
+
+Auditing: capturing activities of users and devices to generate audit logs, track compliant and non-compliant users
+
+## Risk Assessment
+
+
 
 
 
