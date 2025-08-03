@@ -42,6 +42,68 @@ Pillars alignment, cost, compatbility, Usability & features, Vendor score = weig
 
 ## Considerations for Vendor Selection
 
+Pillars alignment: Align with zero trust pillars? target level or advanced level?
+
+Cost: cost involved? affordable? advantages and disadvantages of adoption?
+
+Usability and features: user-friendly? security features supported?
+
+## Pillar Alignment
+
+User: protect users using network?
+
+Devices: isolate and protect every device?
+
+Network: solution enable network segmentation?
+
+Application & Workload: Does it portect applications?
+
+Data: Ensure dat categorization?
+
+Automation & Orchestration: Automate zero trust principles?
+
+Visibility & Analytics: Useful analytics and data points provided?
+
+## Pillars Alignment: Metric
+
+How many pillars supported & level of capabilities?
+
+Pillar Alignment & Capabilities Support: Low-High Range
+
+Value: 0-3
+
+Description: support zero, one, two, more than two & target level or advanced level
+
+## Total Cost
+
+Total Cost of Ownership (TCO) = One time cost + ongoing cost x number of years
+
+One time cost: initial implementation and planning cost
+
+Ongoing cost: number of security controls, time duration of project 
+
+## Cost Evaluation Metrics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
