@@ -48,9 +48,25 @@ Risk Monitoring: Reveals and generates alerts in case of abnormal processes with
 
 Network Packet Brokers for Visibility and Security: TAPs and NPBs leverage maximize utilization through load balancing and packet filtering
 
+## Establish Visibility
 
+Discover: Identify all applications/data/devices, centralized policy inventory, trusted inventory list, confirm risk appetite
 
+Define: Visibility for admins to create and assign roles, confidence scoring, create baseline, asset ID and alert correlation, define encryption methods
 
+Enforce: how they interact, configure automatic detection, reassert microsegmentation, enforce log parsing and log analysis, refine policies
+
+Monitoring: Continuously adapt  and trigger automated risk-response, update security profiles
+
+## Examples for Establishing Visibility
+
+User device and data captured upon attempting request, ML model work out the risk score by searching odd conduct, conveys to policy engine, engine compares risk score to compliances to determine request to be allowed or denied
+
+## Role of Networking Performance Monitoring (NPM) and Deep Packet Monitoring (DPM) in Visibility
+
+Networking Performance Monitoring: monitoring of nework packets, only record metadata and carry with low load (differentiate normal traffic from abnormal traffic)
+
+Deep Packet Monitoring: examines packets at more granular level than NPM, checks payload of every data packet
 
 
 
