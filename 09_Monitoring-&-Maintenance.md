@@ -10,4 +10,26 @@ Relies heavily on network data and access to data in transit, comprehensive view
 
 ## Need of Visibility
 
+Visibility analytics and User and Entity Behavior Analytics (UEBA) necessary
+
+Help detection and mitigation of threats (dashboard), enable elimination of blind spots (charts), enable organizations to perform risk mitigation and deliver enhanced experience (automation-driven), collect logs from all possible sources (real-time detection), allow creation of customized dashboards
+
+## Steps in Collection and Visualization of Zero Trust Environment Data
+
+Aggregation of data (collect) > Cleaning of Data (consistent structure) > Supplement Data (correlate) > Augment Data (context) > Visualization/Reporting/Analytics
+
+## Analytics and Zero Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
 
