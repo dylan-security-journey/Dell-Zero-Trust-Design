@@ -114,6 +114,23 @@ Recover: Restoring data from backups, perform post-incident analysis
 
 Adapt: refining and adjusting, modifying entry protocols, and recommended methodologies
 
+## Considerations
+
+policy enforced in real time, determine correct stage of current identity based security posture, ensure device health and user monitored, probable risk evaluation, authorized access compliant
+
+## Common Identity Management Tools
+
+Microsoft Entra ID (Microsoft Azure AD): cloud based IAM, Active Directory on-premise, supports industry-standard potocols
+
+OKTA: support strong MFA, provide (JIT), prebuilt integration of thosands of popular SaaS
+
+Beyond Trust: safeguarding privileged accounts, ensure compliances with industry regulations (PCI DSS) (HIPPA) (GDPR)
+
+Microsoft Entra: multicloud identity and network access solutions, user accountability
+
+## Key Considerations for Identity Management Tools Selection
+
+Does (SSO) and MFA protect remote or hybrid? Solutions adaptive and customizable? Variety of access policy controls? Directory solutions cloud or on-premises options? Training their solutions? Governance standards? long-term objectives? compatible with technology? Additional capabilities of use?
 
 
 
