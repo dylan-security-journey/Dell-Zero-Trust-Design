@@ -140,6 +140,35 @@ Managed Threat hunting: recommend most appropriate response to malicious activit
 
 Integrated Threat Intelligence: indicators of compromise to help proactive defense against future attacks
 
+## Role of Machine Intelligence in Zero Trust
+
+Optimizing ZT through generate risk score, automatically create policies, streamlined user experience
+
+## Steps for Implementing Machine Intelligence
+
+Policy Implementation: IP address, location, time, user activity, privilege activity, dormant accounts
+
+Adapt and Apply: Learn from features like user history, applies new policies, new patterns in user behavior
+
+Integration of Enterprise Network: risk-based security and real-time risk score to determine access to requests
+
+## Example for Risk Score Calculation
+
+Calculated by typical user login time, device user logs in, changes in successful logins, denied resource access request (0-100)
+
+## Products and Vendors for Machine Intelligence
+
+Next-generation anti-virus (NGAV): validate health of endpoint, protect against zero-day attacks
+
+Extended Detection and Response (XDR): threat data from throughout organization's IT stack (emails to cloud)
+
+User and Event Behavioral Analysis (UEBA): comparing current behavior to known behavioral baseline
+
+
+
+
+
+
 
 
 
